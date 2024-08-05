@@ -1,6 +1,6 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-b947409d2c451cac68a3de2f4535734d)](http://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SRIKANTH BANDARU</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Passionate Data Scientist From India</h3>
 <img align="right" alt="Coding" width="400" src=https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 
 
